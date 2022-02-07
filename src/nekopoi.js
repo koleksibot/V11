@@ -5,8 +5,5 @@ Mau akses/nonton nekopoi tanpa download vpn? Klik link dibawah ini lalu scroll k
 https://www.hidemyass-freeproxy.com/proxy/id-id/aHR0cHM6Ly9uZWtvcG9pLmNhcmUv
 
 *Selamat Menonton*`
-
-*note : Dosa tanggung sendiri!
-
 }
 exports.nekopoi = nekopoi
