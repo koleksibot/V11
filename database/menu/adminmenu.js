@@ -1,6 +1,6 @@
-const adminmenu = (prefix) => (
-  return'
-╭┤GRUP│
+const adminmenu = (prefix) => { 
+	return `
+╭┤ADMIN MENU│
 ├ 
 ╰────────────────────╯`
 }
